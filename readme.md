@@ -53,7 +53,11 @@ ou
 
 pode-se ter múltiplas animações no mesmo elemento
 
-animation: slide-top 2s, bounce 1s, fade 0.2s;
+```
+.animate{
+    animation: slide-top 2s, bounce 1s, fade 0.2s;
+}
+```
 
 ## Referencias
 
