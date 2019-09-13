@@ -25,6 +25,7 @@
 - animation-direction: reverse (direção da animação);
 - animation-iteration-count: infinite (o número de vezes que a animação será executada);
 
+```
 @keyframes animationname {
     0% {
 
@@ -34,9 +35,11 @@
 
     }
 }
+```
 
 ou
 
+```
 @keyframes animationname {
     from {
 
@@ -46,6 +49,7 @@ ou
 
     }
 }
+```
 
 pode-se ter múltiplas animações no mesmo elemento
 
